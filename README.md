@@ -1,5 +1,7 @@
 <p align="center"><img src="https://github.com/matt77hias/MAGE-Meta/blob/master/res/Example 4.png"></p>
 
+<p align="center"><i>And I thought I'd seen the light. But oh no, I was just stuck on the puzzle.</i></p>
+
 [![matt77hias][icon-io]][url-io] [![LinkedIn][icon-linkedin]][url-linkedin] [![Twitter][icon-twitter]][url-twitter]
 
 [icon-io]:       https://github.com/matt77hias/matt77hias/blob/master/Icons/icon-io.png
