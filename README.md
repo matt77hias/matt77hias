@@ -14,7 +14,7 @@
 
 My name is [Matthias Moulin](https://matt77hias.github.io), a [Digital Illusionist](https://www.dice.se) rendering [electronic arts](https://www.ea.com) while [biting frost](https://www.ea.com/frostbite) in Sweden. I primarily work as a rendering software engineer at the Image Quality cell of the Frostbite Rendering group and contribute to various [EA game franchises](https://www.ea.com/frostbite/games). Furthermore, I am also a dedicated rendering software engineer at [EA DICE](https://www.dice.se/games).
 
-In my spare time, I contribute to my own game and rendering engine, MAGE 🧙.
+In my spare time, I contribute to my own game and rendering engine, [MAGE](https://github.com/matt77hias/MAGE) 🧙.
 
 I am *extremely* passionate about C++ and computer graphics, and overall, interested in many computer science, mathematics and physics subdomains.
 If you want to reach out or just like to say hi, my DM's are open and I actually read and respond to messages.
