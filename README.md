@@ -19,6 +19,6 @@ My name is [Matthias Moulin](https://matt77hias.github.io), a [Digital Illusioni
 In my spare time, I contribute to my own game and rendering engine, [MAGE](https://github.com/matt77hias/MAGE) 🧙.
 
 I am passionate about C++ and computer graphics, and overall, interested in many computer science, mathematics and physics subdomains.
-If you want to reach out or just like to say *hi*, my DM's are open and I actually read and respond to messages.
+If you want to reach out or just like to say *hi*, my DM's are open.
 
 <p align="center">Copyright © 2012-2021 Matthias Moulin. All Rights Reserved.</p>
