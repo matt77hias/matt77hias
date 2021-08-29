@@ -1,6 +1,7 @@
 <p align="center"><img src="https://github.com/matt77hias/MAGE-Meta/blob/master/res/Example 4.png"></p>
 
-<p align="center"><i>And I thought I'd seen the light. But oh no, I was just stuck on the puzzle.</i></p>
+> _A dreamer is one who can only find his way by moonlight, and his punishment is that he sees the dawn before the rest of the world._
+<p align="right"><i>Oscar Wilde</i></p>
 
 [![matt77hias][icon-io]][url-io] [![LinkedIn][icon-linkedin]][url-linkedin] [![Twitter][icon-twitter]][url-twitter]
 
