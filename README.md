@@ -22,4 +22,6 @@ In my spare time, I contribute to my own game and rendering engine, [MAGE](https
 I am passionate about C++ and computer graphics, and overall, interested in many computer science, mathematics and physics subdomains.
 If you want to reach out or just like to say *hi*, my DM's are open.
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=matt77hias&hide_title=true&show_icons=true&theme=dark&count_private=true&count_private=true"/></p>
+
 <p align="center">Copyright © 2012-2022 Matthias Moulin. All Rights Reserved.</p>
