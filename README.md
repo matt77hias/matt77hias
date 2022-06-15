@@ -17,7 +17,7 @@
 
 I am [Matthias Moulin](https://matt77hias.github.io).
 
-In my spare time, I contribute to my own game and rendering engine, [MAGE](https://github.com/matt77hias/MAGE) 🧙.
+In my spare time, I contribute to my own rendering engine, [MAGE](https://github.com/matt77hias/MAGE) 🧙.
 
 I am passionate about C++ and computer graphics, and overall, interested in many computer science, mathematics and physics subdomains.
 
