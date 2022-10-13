@@ -23,4 +23,4 @@ I am passionate about C++ and computer graphics, and overall, interested in many
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=matt77hias&hide_title=true&show_icons=true&theme=dark&count_private=true&count_private=true"/></p>
 
-<p align="center">Copyright © 2012-2022 Matthias Moulin. All Rights Reserved.</p>
+<p align="center">Copyright © 2012-2023 Matthias Moulin. All Rights Reserved.</p>
