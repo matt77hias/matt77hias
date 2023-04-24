@@ -21,6 +21,6 @@ In my spare time, I contribute to my own rendering engine, [MAGE](https://github
 
 I am passionate about C++ and computer graphics, and overall, interested in many computer science, mathematics and physics subdomains.
 
-**Note:** _In case you still have a PR for an archived project of mine, feel free to reach out._
+_Note: In case you still have a PR for an archived project of mine, feel free to reach out._
 
 <p align="center">Copyright © 2012-2023 Matthias Moulin. All Rights Reserved.</p>
