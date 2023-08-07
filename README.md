@@ -21,4 +21,4 @@ I am passionate about C++ and computer graphics, and overall, interested in many
 
 _Note: In case you still have a PR for an archived project of mine, feel free to reach out._
 
-<p align="center">Copyright © 2012-2023 Matthias Moulin. All Rights Reserved.</p>
+<p align="center">Copyright © 2012-2024 Matthias Moulin. All Rights Reserved.</p>
